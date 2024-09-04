@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684875107 source:c:\users\roger\desktop\a94632centrosaude\centrosaudea94632\centrosaudea94632\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
